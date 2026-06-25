@@ -1,2 +1,0 @@
-# simadig
-Sistem Manajemen Digital
